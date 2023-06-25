@@ -13,3 +13,6 @@ Libraries used:
  - Pandas
  - Matplotlib
  - Seaborn
+
+#### For more information about this project, do checkout my blog
+Link: https://akshato2.hashnode.dev/exploratory-data-analysis-century-analysis
